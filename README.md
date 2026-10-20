@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that analyzes hospital admissions, billing, and insurance data across patients, doctors, medical conditions, and medications.
 
-![Dashboard overview](screenshots/dashboard_overview.png)
+
 
 ## Project Goal
 
@@ -25,11 +25,11 @@ To give hospital management a quick view of admission volumes and billing, so th
 
 I designed the layout in Figma first, then built it in Power BI.
 
-![Figma design](screenshots/figma_design.png)
+
 
 ## Data
 
-- **Source:** [where the data came from, with a link if it's public]
+- **Source:** healthcareoriginal_dataset
 - **Cleaning steps:** [e.g. removed duplicates, fixed date formats]
 
 ## How to Open the Dashboard
