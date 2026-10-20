@@ -40,4 +40,4 @@ I designed the layout in Figma first, then rebuilt it in Power BI.
 
 Amira Ibrahim
 Data Analyst | Assiut, Egypt
-[Your LinkedIn link]
+
